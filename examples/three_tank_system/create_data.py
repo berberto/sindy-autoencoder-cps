@@ -1,5 +1,5 @@
-from examples.three_tank_system.data_gen import ThreeTankDataGenerator
-import examples.three_tank_system.constants as const
+from data_gen import ThreeTankDataGenerator
+import constants as const
 import pandas as pd
 
 
