@@ -17,4 +17,4 @@ dependencies:
   - pandas
   - opencv
   - plotly
-  - sklearn
+  - scikit-learn
