@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 from torch.utils.data import Dataset
 import torch
-import examples.lorenz.constants as const
+import constants as const
 
 
 

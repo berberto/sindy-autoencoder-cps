@@ -3,7 +3,7 @@
 """
 import numpy as np
 from scipy.integrate import odeint
-import examples.lorenz.constants as const
+import constants as const
 # from scipy.ndimage import gaussian_filter
 
 np.random.seed(62654)
