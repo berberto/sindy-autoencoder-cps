@@ -1,0 +1,22 @@
+name: landscapes
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+  - pytorch
+dependencies:
+  - pytorch=1.8.0
+  - cudatoolkit=10.1
+  - numpy
+  - scipy
+  - matplotlib
+  - pysindy
+  - pytorch-lightning
+  - typing_extensions
+  - pyarrow
+  - fastparquet
+  - dill
+  - pandas
+  - opencv
+  - plotly
+  - scikit-learn

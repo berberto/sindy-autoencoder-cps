@@ -1,5 +1,5 @@
-narom examples.lorenz.data_gen import LorenzDataGenerator
-import examples.lorenz.constants as const
+from data_gen import LorenzDataGenerator
+import constants as const
 import pandas as pd
 
 

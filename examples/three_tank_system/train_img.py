@@ -1,4 +1,4 @@
-from examples.three_tank_system.data_module import ThreeTankDataModule
+from data_module import ThreeTankDataModule
 from sindy_autoencoder_cps.lightning_module import SINDyAutoencoder
 import torch
 import pytorch_lightning as pl

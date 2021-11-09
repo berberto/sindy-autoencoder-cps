@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 from torch.utils.data import Dataset
 import torch
-import examples.three_tank_system.constants as const
+import constants as const
 
 
 class ThreeTankImgDataSet(Dataset):

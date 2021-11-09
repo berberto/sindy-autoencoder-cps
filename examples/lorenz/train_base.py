@@ -1,4 +1,4 @@
-from examples.lorenz.data_module import LorenzDataModule
+from data_module import LorenzDataModule
 from sindy_autoencoder_cps.lightning_module import SINDyAutoencoder
 import torch
 import pytorch_lightning as pl

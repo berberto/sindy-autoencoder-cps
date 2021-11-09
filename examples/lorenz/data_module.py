@@ -1,6 +1,6 @@
 import pytorch_lightning as pl
 from torch.utils.data import DataLoader, random_split
-from examples.lorenz.dataset import LorenzBaseDataSet 
+from dataset import LorenzBaseDataSet 
 import numpy as np
 import torch
 from torch.utils.data import DataLoader
